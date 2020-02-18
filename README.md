@@ -1,4 +1,4 @@
-convention:
+    convention:
         r0-mov     -- motivation 
         r0-ext     -- extention of the know. with the help of internet 
         r1-k2rough -- get a roughly understanding, achieve a detailready state
